@@ -1,0 +1,26 @@
+{
+  "name": "img_processing",
+  "version": "0.0.0",
+  "description": "applicational back-end for image manipulation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gpestana/img_processing.git"
+  },
+  "keywords": [
+    "image",
+    "manipulation"
+  ],
+  "author": "gpestana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gpestana/img_processing/issues"
+  },
+  "homepage": "https://github.com/gpestana/img_processing",
+  "dependencies": {
+    "express": "^4.9.0"
+  }
+}
